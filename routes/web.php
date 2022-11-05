@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AnjunganController;
+use App\Http\Controllers\PerizinanController;
 
 /*
 |--------------------------------------------------------------------------
@@ -19,3 +20,4 @@ use App\Http\Controllers\AnjunganController;
 // });
 
 Route::get('/', [AnjunganController::class, 'index'])->name('anjungan.index');
+Route::get('/izin', [PerizinanController::class, 'index'])->name('perizinan.index');
