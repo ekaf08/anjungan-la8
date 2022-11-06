@@ -10,7 +10,7 @@
                 <!-- Image Area -->
                 <div class="col-lg-7 order-lg-2">
                     <div class="slider-image">
-                        <img src="personal/img/girl.png" alt="girl">
+                        <img src="{{ asset ('fo/personal/svg/home.svg')}}" alt="girl">
                     </div>
                 </div>
 
