@@ -97,8 +97,8 @@ blockquote > cite {font-weight: 400;font-size: 14px;display: block;}
 .btn.btn-large {font-size:14px; padding: 9px 34px; line-height: 1.8em;}
 .btn.btn-rounded {border-radius: 50px;}
 
-.btn-link,.btn-link:hover,.btn-link:focus{color:#7A1012; text-decoration: none;padding: 0;}
-.btn-link::after {content: attr(data-text);display: inline-block;width: 0;height: 100%;position: absolute;top: 0;left: 0;white-space: nowrap;color: #86cd88;overflow: hidden;-webkit-transition: all 0.5s cubic-bezier(0, 0, 0.2, 1);-o-transition: all 0.5s cubic-bezier(0, 0, 0.2, 1);transition: all 0.5s cubic-bezier(0, 0, 0.2, 1);}
+.btn-link,.btn-link:hover,.btn-link:focus{color:#cc4e50; text-decoration: none;padding: 0;}
+.btn-link::after {content: attr(data-text);display: inline-block;width: 0;height: 100%;position: absolute;top: 0;left: 0;white-space: nowrap;color: #7A1012;overflow: hidden;-webkit-transition: all 0.5s cubic-bezier(0, 0, 0.2, 1);-o-transition: all 0.5s cubic-bezier(0, 0, 0.2, 1);transition: all 0.5s cubic-bezier(0, 0, 0.2, 1);}
 .btn-link:hover::after {width: 100%;}
 
 /* button background */
@@ -110,7 +110,7 @@ blockquote > cite {font-weight: 400;font-size: 14px;display: block;}
 .btn.btn-transparent-black:hover, .btn.btn-transparent-black:focus {background: #2b2b2b !important; color: #ffffff !important}
 .btn.btn-black {background: #2b2b2b; border-color: #2b2b2b; color: #ffffff}
 .btn.btn-black:hover, .btn.btn-black:focus {background: transparent !important; border-color: #2b2b2b; color: #2b2b2b !important}
-.btn.btn-green {background: #7A1012; border-color: #7A1012; color: #ffffff}
+.btn.btn-green {background: #7A1012; border-color: #7A1012; color: #ffffff; border-radius: 50px;}
 .btn.btn-green:hover, .btn.btn-green:focus {background: transparent !important; border-color: #7A1012; color: #7A1012 !important}
 .btn.btn-hvr-white:hover, .btn.btn-hvr-white:focus {background: #ffffff !important; border-color: #ffffff; color: #585858 !important}
 
@@ -416,6 +416,9 @@ blockquote > cite {font-weight: 400;font-size: 14px;display: block;}
     min-height: 100vh;
     align-items: center;
     background-color: #FFE0E2;
+    background-image: url("../img/bg-konten.png");
+	background-repeat: no-repeat;
+	background-size: cover;
     visibility: hidden;
     -webkit-backface-visibility: hidden;
     -moz-backface-visibility: hidden;

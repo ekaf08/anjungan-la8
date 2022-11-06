@@ -17,47 +17,47 @@
             <li><!-- href value = data-id without # of .pt-page. Data-goto is the number of section -->
                 <a class="pt-trigger" data-animation="58" data-goto="1" href="#home">
                     <i class="fas fa-home"></i>
-                    <span>Home</span>
+                    <span class="font-weight-500">Home</span>
                 </a>
             </li>
             <li>
                 <a class="pt-trigger" data-animation="59" data-goto="2" href="#perizinan">
                     <i class="fas fa-stamp"></i>
-                    <span>Layanan Perizinan</span>
+                    <span class="font-weight-500">Layanan Perizinan</span>
                 </a>
             </li>
             <li>
                 <a class="pt-trigger" data-animation="61" data-goto="3" href="#kesehatan">
                     <i class="fas fa-stethoscope"></i>
-                    <span>Layanan Kesehatan</span></a>
+                    <span class="font-weight-500">Layanan Kesehatan</span></a>
             </li>
             <li>
                 <a class="pt-trigger" data-animation="58" data-goto="4" href="#kependudukan">
                     <i class="fas fa-users"></i>
-                    <span class="list-inline-item">Layanan Kependudukan</span>
+                    <span class="font-weight-500">Layanan Kependudukan</span>
                 </a>
             </li>
             <li>
                 <a class="pt-trigger" data-animation="59" data-goto="5" href="#penduduk">
                     <i class="fas fa-user-check"></i>
-                    <span>Pantauan Penduduk</span>
+                    <span class="font-weight-500">Pantauan Penduduk</span>
                 </a>
             </li>
             <li>
                 <a class="pt-trigger" data-animation="61" data-goto="6" href="#kecamatan">
                     <i class="fas fa-file-alt"></i>
-                    <span>Layanan Kecamatan</span>
+                    <span class="font-weight-500">Layanan Kecamatan</span>
                 </a>
             </li>
             <li>
                 <a class="pt-trigger" data-animation="58" data-goto="7" href="#perpajakan">
                     <i class="fas fa-money-check-alt"></i>
-                    <span>Layanan Perpajakan</span></a>
+                    <span class="font-weight-500">Layanan Perpajakan</span></a>
             </li>
             <li>
                 <a class="pt-trigger" data-animation="59" data-goto="8" href="#mpp">
                     <i class="fas fa-hotel"></i>
-                    <span>Mall Pelayanan Publik</span>
+                    <span class="font-weight-500">Mall Pelayanan Publik</span>
                 </a>
             </li>
         </ul>

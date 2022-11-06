@@ -19,9 +19,9 @@
                     <!-- Box Area -->
                     <div class="heading-box">
                         <h2><span class="main-color">KIOS</span> Layanan Publik</h2>
-                        <p>Pilih Layanan yang ingin anda tuju pada <span class="main-color"> Menu Sebelah Kiri</span></p>
+                        <p class="font-weight-bold">Pilih Layanan pada <span class="main-color"> Menu Sebelah Kiri</span></p>
 
-                        {{-- <a href="javascript:void(0);" data-text="Read More" class="btn btn-link">Read More</a> --}}
+                        {{-- <a href="javascript:void(0);" data-text="Read More" class="btn btn-green">Read More</a> --}}
                     </div>
                 </div>
 
@@ -53,9 +53,9 @@
                     <!-- Box Area -->
                     <div class="heading-box">
                         <h2><span class="main-color">Layanan</span> Perizinan</h2>
-                        <p>Sistem terpadu yang melayani pendaftaran perizinan Investasi maupun perizinan Parsial di UPTSA</p>
+                        <p class="font-weight-bold">Sistem terpadu yang melayani pendaftaran perizinan Investasi maupun perizinan Parsial di UPTSA</p>
 
-                        <a href="{{route ('perizinan.index')}}" data-text="Klik Layanan" class="btn btn-link">Klik Layanan</a>
+                        <a href="{{route ('perizinan.index')}}" data-text="Klik Layanan" class="font-weight-bold btn btn-green">Klik Layanan</a>
                     </div>
                 </div>
 
@@ -87,9 +87,9 @@
                     <!-- Box Area -->
                     <div class="heading-box">
                         <h2><span class="main-color">Layanan</span> Kesehatan</h2>
-                        <p>Aplikasi pendaftaran online yang mempermudah warga Surabaya untuk mendapatkan layanan kesehatan</p>
+                        <p class="font-weight-bold">Aplikasi pendaftaran online yang mempermudah warga Surabaya untuk mendapatkan layanan kesehatan</p>
 
-                        <a href="" data-text="Klik Layanan" class="btn btn-link">Klik Layanan</a>
+                        <a href="" data-text="Klik Layanan" class="font-weight-bold btn btn-green">Klik Layanan</a>
                     </div>
                 </div>
 
@@ -121,9 +121,9 @@
                     <!-- Box Area -->
                     <div class="heading-box">
                         <h2><span class="main-color">Layanan</span> Kependudukan</h2>
-                        <p>Aplikasi pendaftaran online untuk pencatatan Kelahiran, Kematian, serta Perpindahan Penduduk</p>
+                        <p class="font-weight-bold">Aplikasi pendaftaran online untuk pencatatan Kelahiran, Kematian, serta Perpindahan Penduduk</p>
 
-                        <a href="" data-text="Klik Layanan" class="btn btn-link">Klik Layanan</a>
+                        <a href="" data-text="Klik Layanan" class="font-weight-bold btn btn-green">Klik Layanan</a>
                     </div>
                 </div>
 
@@ -155,9 +155,9 @@
                     <!-- Box Area -->
                     <div class="heading-box">
                         <h2><span class="main-color">Pantauan</span> Penduduk</h2>
-                        <p>Sistem Informasi Pemantauan Status Domisili Penduduk (SIPANDU) Kota Surabaya</p>
+                        <p class="font-weight-bold">Sistem Informasi Pemantauan Status Domisili Penduduk (SIPANDU) Kota Surabaya</p>
 
-                        <a href="" data-text="Klik Layanan" class="btn btn-link">Klik Layanan</a>
+                        <a href="" data-text="Klik Layanan" class="font-weight-bold btn btn-green">Klik Layanan</a>
                     </div>
                 </div>
 
@@ -189,9 +189,9 @@
                     <!-- Box Area -->
                     <div class="heading-box">
                         <h2><span class="main-color">Layanan</span> Kecamatan</h2>
-                        <p>Aplikasi pendaftaran online untuk Pelayanan Administratif Penduduk di tingkat Kecamatan</p>
+                        <p class="font-weight-bold">Aplikasi pendaftaran online untuk Pelayanan Administratif Penduduk di tingkat Kecamatan</p>
 
-                        <a href="" data-text="Klik Layanan" class="btn btn-link">Klik Layanan</a>
+                        <a href="" data-text="Klik Layanan" class="font-weight-bold btn btn-green">Klik Layanan</a>
                     </div>
                 </div>
 
@@ -223,9 +223,9 @@
                     <!-- Box Area -->
                     <div class="heading-box">
                         <h2><span class="main-color">Layanan</span> Perpajakan</h2>
-                        <p>Layanan online terkait pendapatan daerah dan urusan perpajakan Kota Surabaya</p>
+                        <p class="font-weight-bold">Layanan online terkait pendapatan daerah dan urusan perpajakan Kota Surabaya</p>
 
-                        <a href="" data-text="Klik Layanan" class="btn btn-link">Klik Layanan</a>
+                        <a href="" data-text="Klik Layanan" class="font-weight-bold btn btn-green">Klik Layanan</a>
                     </div>
                 </div>
 
@@ -257,7 +257,7 @@
                     <!-- Box Area -->
                     <div class="heading-box">
                         <h2><span class="main-color">Mall Pelayanan</span> Publik</h2>
-                        <p><a href="" data-text="Klik disini" class="btn btn-link">Klik disini</a> untuk Mendaftar Antrian Mall Pelayanan Publik</p>
+                        <p class="font-weight-bold"><a href="" data-text="Klik disini" class="btn btn-green font-weight-bold">Klik disini</a> untuk Mendaftar Antrian Mall Pelayanan Publik</p>
 
                         
                     </div>
