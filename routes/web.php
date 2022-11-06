@@ -4,6 +4,9 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AnjunganController;
 use App\Http\Controllers\PerizinanController;
 
+use App\Http\Controllers\FO2\Anjungan2Controller;
+
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -20,4 +23,7 @@ use App\Http\Controllers\PerizinanController;
 // });
 
 Route::get('/', [AnjunganController::class, 'index'])->name('anjungan.index');
-Route::get('/izin', [PerizinanController::class, 'index'])->name('perizinan.index');
+Route::get('/layanan-perizinan', [PerizinanController::class, 'index'])->name('perizinan.index');
+
+// Route::get('/', [Anjungan2Controller::class, 'index'])->name('anjungan.index');
+
